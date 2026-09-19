@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KG Social Network</string>
+    <string name="tagline">WE CAN DO EVERYTHING</string>
+    <string name="subline">Digital Services • Marketing • Learning • Technology</string>
+    <string name="founder_name">Jahangir Ahmed Kacher</string>
+    <string name="location_info">Jammu &amp; Kashmir, India</string>
+    <string name="support_email">KACHERGROUPC@GMAIL.COM</string>
+    <string name="support_whatsapp">9622102381</string>
+    <string name="website_url">https://kgsocialnetwork.com</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "KG Social Network",
+  "description": "Digital Services, Marketing, Learning & Technology platform by Jahangir Ahmed Kacher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
